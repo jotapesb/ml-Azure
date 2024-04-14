@@ -1,4 +1,6 @@
-# Passo 1
+# Trabalho com Machine Learning no Azure ML
+
+## Passo 1
 
 Logo ao iniciar no Microsoft Azure, pesquise Machine Learning.
 
@@ -20,7 +22,7 @@ Vá em inicar o estúdio.
 
 ![image](https://github.com/jotapesb/ml-Azure/assets/147784947/7e98ab10-72a1-416e-880a-724f1b0774d1)
 
-# Passo 2 
+## Passo 2 
 
 Ao aparecer Estudio de Aprendizado de Máquina, vá em ML Automatizado
 
@@ -90,7 +92,7 @@ Em alguns minutos o Status mostrará implantação concluida.
 
 ![image](https://github.com/jotapesb/ml-Azure/assets/147784947/9a50f834-4ff0-49d1-bf2b-4fdc42bbc850)
 
-# Passo 3
+## Passo 3
 
 Após implantação clique no nome do algoritmo que aparece a você.
 
